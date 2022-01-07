@@ -14,5 +14,6 @@ public static void main(String args[])
   System.out.println("My name is Sohan Kumar");
   System.out.println("My name is Har Har Mahadev");
   System.out.println("My name is Om Namah Shivay");
+  System.out.println("My name is Harman Singh");
 }
 }
